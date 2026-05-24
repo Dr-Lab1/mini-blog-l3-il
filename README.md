@@ -225,16 +225,16 @@ routes/
 
 ## Critères d'évaluation
 
-| Critère | Points |
-|---|---|
-| Layouts Blade corrects avec `@extends`, `@yield`, `@section` | 3 pts |
-| Composants publics (header, footer) fonctionnels avec `asset()` | 3 pts |
-| Composants dashboard (topbar, sidebar) fonctionnels avec `asset()` | 3 pts |
-| Routes publiques nommées et correctement déclarées | 3 pts |
-| Routes dashboard groupées avec préfixe et nommage cohérent | 3 pts |
-| Contrôleurs créés avec les bonnes méthodes et retours de vues | 3 pts |
-| Liens Blade partout | 4 pts |
-| Réponses aux questions théoriques | 8 pts |
+| # | Critère | Points |
+|---|---|---|
+| A | Layouts Blade corrects avec `@extends`, `@yield`, `@section` | 3 pts |
+| B | Composants publics (header, footer) fonctionnels avec `asset()` | 3 pts |
+| C | Composants dashboard (topbar, sidebar) fonctionnels avec `asset()` | 3 pts |
+| D | Routes publiques nommées et correctement déclarées | 3 pts |
+| E | Routes dashboard groupées avec préfixe et nommage cohérent | 3 pts |
+| F | Contrôleurs créés avec les bonnes méthodes et retours de vues | 3 pts |
+| G | Liens Blade partout | 4 pts |
+| H | Réponses aux questions théoriques | 8 pts |
 | **Total** | **30 pts** |
 
 ---
