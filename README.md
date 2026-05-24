@@ -235,7 +235,7 @@ routes/
 | F | Contrôleurs créés avec les bonnes méthodes et retours de vues | 3 pts |
 | G | Liens Blade partout | 4 pts |
 | H | Réponses aux questions théoriques | 8 pts |
-| **Total** | **30 pts** |
+| | **Total** | **30 pts** |
 
 ---
 
